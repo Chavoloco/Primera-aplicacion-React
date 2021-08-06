@@ -25,4 +25,10 @@
 .btn-normal{
   background-color:rgb(255, 255, 255);
   color: rgb(82, 82, 82);
+  border:brown;
+}
+
+.btn-normal :hover{
+  background-color:rgb(152, 255, 66);
+  opacity: .7;
 }
